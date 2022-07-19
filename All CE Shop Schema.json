@@ -104,7 +104,7 @@ function() {
             ]
         }
     ],
-    "/ar-real-estate-license-requirements-faq": [
+    "/arkansas/pre-licensing//ar-real-estate-license-requirements-faq": [
         {
             "@context": "https://schema.org",
             "@type": "FAQPage",
